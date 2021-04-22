@@ -26,6 +26,10 @@ a:link:hover{
     opacity: 100%;
 
 }
+/* a:link:visited{
+    color: none;
+
+} */
 li{
     padding-left: 30px;
 
